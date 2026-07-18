@@ -16,9 +16,4 @@ Yapay zeka promptları veya yapay zeka ile yaptığım projeleri burada sizinle 
 
 Burada projelerimde aktif olarak çalıştırdığım, sınırlarını zorladığım yapay zeka modellerini görebilirsiniz:
 
-| Araç | Logo / Rozet |
-| :--- | :--- |
-| **OpenAI ChatGPT** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
-| **Anthropic Claude** | ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white) |
-| **Google Gemini** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
-| **DeepSeek** | ![DeepSeek](https://img.shields.io/badge/DeepSeek-007FFF?style=for-the-badge&logo=deepseek&logoColor=white) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-007FFF?style=for-the-badge&logo=deepseek&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
