@@ -1,4 +1,6 @@
-# 🚀 Selo GPT'ye Hoş Geldiniz!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Selo+GPT'ye+Hos+Geldiniz!" alt="Typing Effect" />
+</div>
 
 <div align="center">
   <!-- Seçtiğin Deadpool GIF Alanı -->
