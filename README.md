@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <!-- Seçtiğin Deadpool GIF Alanı -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjV4anRxa3IweTg3ejkzNzV3ZTAwYzl2M3NncnAwc3phcTAyc213OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n1uOzKXVMW9LBYgtNa/giphy.gif" width="600" alt="Deadpool AI"/>
 </div>
 
